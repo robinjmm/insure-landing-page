@@ -1,0 +1,28 @@
+{
+  "name": "insure-landing-page",
+  "version": "1.0.0",
+  "description": "My solution for the Insure Landing Page challenge from Frontendmentor.io",
+  "source": "src/index.html",
+  "browserlist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinjmm/insure-landing-page.git"
+  },
+  "author": "robinjmm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robinjmm/insure-landing-page/issues"
+  },
+  "homepage": "https://github.com/robinjmm/insure-landing-page#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.0",
+    "parcel": "^2.8.0"
+  },
+  "dependencies": {
+    "sass": "^1.56.1"
+  }
+}
